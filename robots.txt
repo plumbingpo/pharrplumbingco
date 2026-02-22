@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pharrplumbingco.com/sitemap.xml
